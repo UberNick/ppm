@@ -52,6 +52,7 @@
     "shx": "^0.3.3"
   },
   "resolutions": {
+    "degenerator": "^5.0.1",
     "make-fetch-happen/**/ip": "^1.1.9",
     "npm/**/got": "^11.8.6",
     "npm/**/http-cache-semantics": "^4.1.1",
